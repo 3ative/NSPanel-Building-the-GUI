@@ -1,1 +1,1 @@
-# NSPanel-Building-the-GUI
+# NSPanel Building the GUI
