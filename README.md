@@ -8,7 +8,7 @@
 ___
 * ### Part 1: Making the Graphics: _Will Be Public Soon_
 * ### Part 2: Building the HMI: _Will Be Public Soon_
-* ### Link to Part 3: Flashing with ESPHome: _Will Be Public Soon_
+* ### Link to Part 3: [Flashing with ESPHome](https://github.com/3ative/NSPanel-ESPHome-Code)
 ___
 
 🎁 Found this useful or want to say 'thanks' and support my efforts...
