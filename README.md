@@ -8,7 +8,7 @@
 ___
 * ### Tutorial Part 1: [Making the Graphics](https://www.youtube.com/watch?v=wPXUMat6his)
 * ### Tutorial Part 2: [Building the HMI](https://youtu.be/oj9-shP5icU)
-* ### Tutorial Part 2: [NSPanel ESPHome Code](https://youtu.be/z4z68dyZ7dw)
+* ### Tutorial Part 3: [NSPanel ESPHome Code](https://youtu.be/z4z68dyZ7dw)
 
 
 
